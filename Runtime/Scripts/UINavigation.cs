@@ -4,7 +4,7 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace NabaGame.UI
+namespace NQH.UI
 {
     public class UINavigation
     {

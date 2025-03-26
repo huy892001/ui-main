@@ -10,7 +10,7 @@ using Outline = UnityEngine.UI.Outline;
 using Text = UnityEngine.UI.Text;
 
 #pragma warning disable 1591
-namespace NabaGame.UI
+namespace NQH.UI
 {
 	public static class DOTweenModuleUI
     {

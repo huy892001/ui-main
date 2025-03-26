@@ -1,4 +1,4 @@
-﻿namespace NabaGame.UI
+﻿namespace NQH.UI
 {
     public interface IUiManager
     {

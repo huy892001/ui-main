@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System;
 
-namespace NabaGame.UI
+namespace NQH.UI
 {
     [Serializable]
     public class NamesDatabase : ScriptableObject

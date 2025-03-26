@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
-namespace NabaGame.UI
+namespace NQH.UI
 {
     [AddComponentMenu(DUI.COMPONENT_MENU_UIBUTTON, DUI.MENU_PRIORITY_UIBUTTON)]
     [RequireComponent(typeof(RectTransform), typeof(Button))]

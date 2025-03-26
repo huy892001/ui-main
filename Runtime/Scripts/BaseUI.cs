@@ -3,7 +3,7 @@ using Sirenix.OdinInspector;
 #endif
 using UnityEngine;
 
-namespace NabaGame.UI
+namespace NQH.UI
 {
     [RequireComponent(typeof(UIPanel))]
     public class BaseUI : MonoBehaviour

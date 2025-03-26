@@ -4,7 +4,7 @@ using UnityEditor;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace NabaGame.UI
+namespace NQH.UI
 {
     [AddComponentMenu(DUI.COMPONENT_MENU_UIPANEL, DUI.MENU_PRIORITY_UIPANEL)]
     [RequireComponent(typeof(RectTransform))]

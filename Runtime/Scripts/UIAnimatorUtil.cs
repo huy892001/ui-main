@@ -7,7 +7,7 @@ using QuickEngine.Core;
 using UnityEditor;
 #endif
 
-namespace NabaGame.UI
+namespace NQH.UI
 {
     [Serializable]
     public class UIAnimatorUtil

@@ -6,7 +6,7 @@ using UnityEngine.Events;
 #if UNITY_EDITOR
 using UnityEditor.AnimatedValues;
 #endif
-namespace NabaGame.UI
+namespace NQH.UI
 {
     public class UIAnimator
     {

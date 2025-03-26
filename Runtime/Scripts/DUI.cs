@@ -1,13 +1,13 @@
 ﻿using UnityEngine;
 using System;
 using QuickEngine.Core;
-using NabaGame.Core.Runtime.Extensions;
+using NQH.Core.Runtime.Extensions;
 
 #if UNITY_EDITOR
 using UnityEditor;
 #endif
 
-namespace NabaGame.UI
+namespace NQH.UI
 {
     [Serializable]
     public partial class DUI
@@ -41,7 +41,7 @@ namespace NabaGame.UI
         public const int MINI_BAR_HEIGHT = 18;
         public enum EventType { ButtonClick }
 
-        public static string PATH = "Packages/com.nabagame.ui/Editor"; //"Assets/nabagame_Packages/com.nabagame.ui/Editor";;
+        public static string PATH = "Packages/com.nqh.ui/Editor"; //"Assets/nqh_Packages/com.nqh.ui/Editor";;
 
         public const string RESOURCES_PATH_DUIDATA = "";
         public static string RELATIVE_PATH_DUIDATA { get { return PATH + "/Resources/" + RESOURCES_PATH_DUIDATA; } }

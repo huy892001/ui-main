@@ -1,7 +1,7 @@
-﻿using NabaGame.Core.Runtime.EventManager;
+﻿using NQH.Core.Runtime.EventManager;
 using UnityEngine;
 
-namespace NabaGame.UI
+namespace NQH.UI
 {
     public class UIBackgroundShowEvent : GameEvent
     {

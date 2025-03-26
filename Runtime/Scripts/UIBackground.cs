@@ -3,7 +3,7 @@ using UnityEditor;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace NabaGame.UI
+namespace NQH.UI
 {
     [AddComponentMenu(DUI.COMPONENT_MENU_UIBACKGROUND, DUI.MENU_PRIORITY_UIBACKGROUND)]
     public class UIBackground : MonoBehaviour

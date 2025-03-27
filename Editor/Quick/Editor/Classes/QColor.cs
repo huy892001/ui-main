@@ -1,5 +1,5 @@
 using System;
-using NabaGame.Core.Runtime.Extensions;
+using NQH.Core.Runtime.Extensions;
 using UnityEditor;
 using UnityEngine;
 

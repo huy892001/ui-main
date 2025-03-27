@@ -4,7 +4,7 @@ using UnityEditor.AnimatedValues;
 using UnityEditor.SceneManagement;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using NabaGame.Core.Runtime.Extensions;
+using NQH.Core.Runtime.Extensions;
 
 namespace QuickEditor
 {

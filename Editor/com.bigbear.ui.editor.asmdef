@@ -1,5 +1,5 @@
 {
-    "name": "com.nabagame.ui.editor",
+    "name": "com.nqh.ui.editor",
     "rootNamespace": "",
     "references": [
         "GUID:a42feca400cf70d48a7026724741221f",

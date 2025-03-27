@@ -2,7 +2,7 @@
 using UnityEditor;
 using QuickEditor;
 
-namespace NabaGame.UI.Editor
+namespace NQH.UI.Editor
 {
     public partial class DUIResources
     {

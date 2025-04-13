@@ -4,7 +4,7 @@ using UnityEditor.AnimatedValues;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace NQH.UI.Editor
+namespace NabaGame.UI.Editor
 {
     [CustomEditor(typeof(UIElement), true)]
     [DisallowMultipleComponent]

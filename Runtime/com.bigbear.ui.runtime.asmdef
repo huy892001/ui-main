@@ -1,5 +1,5 @@
 {
-    "name": "com.nqh.ui.runtime",
+    "name": "com.nabagame.ui.runtime",
     "rootNamespace": "",
     "references": [
         "GUID:2da9b51fc7a51154389c46c9d5663120",

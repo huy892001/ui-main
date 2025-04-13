@@ -2,7 +2,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace NQH.UI.Editor
+namespace NabaGame.UI.Editor
 {
     [CustomEditor(typeof(UIPanel), true)]
     [DisallowMultipleComponent]

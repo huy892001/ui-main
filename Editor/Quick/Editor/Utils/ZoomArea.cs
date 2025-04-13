@@ -1,4 +1,4 @@
-using NQH.Core.Runtime.Extensions;
+using NabaGame.Core.Runtime.Extensions;
 using UnityEngine;
 
 namespace QuickEditor.Utils

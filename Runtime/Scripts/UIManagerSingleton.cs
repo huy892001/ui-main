@@ -1,11 +1,11 @@
 using System;
 using System.Collections.Generic;
-using NQH.Core.Runtime.Singleton;
+using NabaGame.Core.Runtime.Singleton;
 using UnityEngine;    
 #if ODIN_INSPECTOR
 using Sirenix.OdinInspector;
 #endif
-namespace NQH.UI
+namespace NabaGame.UI
 {
     public abstract class UIManagerSingleton<T> : Singleton<T>,IUiManager where T : MonoBehaviour 
     {

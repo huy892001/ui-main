@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-using NQH.Core.Runtime.Extensions;
+using NabaGame.Core.Runtime.Extensions;
 #if UNITY_EDITOR
 using UnityEditor;
 #endif
@@ -8,7 +8,7 @@ namespace QuickEngine.Core
 {
     public partial class Q
     {
-        private static string _PATH = "Packages/com.nqh.ui/Editor/Quick";
+        private static string _PATH = "Packages/com.nabagame.ui/Editor/Quick";
         public static string PATH
         {
             get

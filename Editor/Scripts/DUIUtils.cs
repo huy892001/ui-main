@@ -1,11 +1,11 @@
 ﻿using QuickEditor;
 using System.Collections.Generic;
-using NQH.UI;
+using NabaGame.UI;
 using UnityEditor;
 using UnityEditor.AnimatedValues;
 using UnityEngine;
 
-namespace NQH.UI.Editor
+namespace NabaGame.UI.Editor
 {
     public class Index
     {
@@ -43,7 +43,7 @@ namespace NQH.UI.Editor
     public enum ButtonLoopType { Normal, Selected }
 }
 
-namespace  NQH.UI.Editor
+namespace  NabaGame.UI.Editor
 {
     public class DUIUtils
     {

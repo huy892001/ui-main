@@ -4,7 +4,7 @@ using System;
 using UnityEditor.AnimatedValues;
 #endif
 
-namespace NQH.UI
+namespace NabaGame.UI
 {
     [Serializable]
     public class AnimData : ScriptableObject

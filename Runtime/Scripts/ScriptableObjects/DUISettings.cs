@@ -2,7 +2,7 @@
 using System;
 using UnityEngine;
 
-namespace NQH.UI
+namespace NabaGame.UI
 {
     [Serializable]
     public class DUISettings : ScriptableObject
